@@ -1,0 +1,21 @@
+---
+
+```
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as follows."
+authors:
+  - family-names: Roth
+    given-names: Paul
+title: "RothMethods — Performance Blindspot Transformation"
+version: 1.0.0
+date-released: 2024
+url: "https://github.com/paulroth/rothmethods"
+abstract: >
+  The canonical repository for RothMethods — the only Applied Ontological
+  Method that makes the Blindspot visible and transforms it permanently.
+  Developed by Paul Roth over 35 years of applied work across Fortune 100
+  corporations, commercial real estate, federal prisons, and individual
+  high performers.
+```
+
+---
