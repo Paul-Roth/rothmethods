@@ -8,6 +8,12 @@ All terms defined here are proprietary to RothMethods. Definitions are precise a
 
 A Technology that operates at the level of being — who a person is — not at the level of knowing or doing. Applied means it works: it produces measurable, observable, permanent change. Ontological means it reaches the source. Method means it is precise, repeatable, and teachable.
 
+```
+
+## Transrformation
+
+Something becoming more true to itself.
+
 ---
 
 ## The Blindspot
@@ -133,6 +139,8 @@ The Applied Ontological Method extended into the domain of selling. Selling rede
 ## Eductive
 
 Drawing out — not pushing in. The opposite of directive. The mode of influence that works with a person's own internal commitment rather than against their resistance.
-```
 
+
+
+Drawing out
 ---
