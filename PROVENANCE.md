@@ -19,7 +19,7 @@ The 12 Methods — each with its own Tool and Training — represent over two de
 - **1989** — RothMethods founded
 - **1990s** — Blindspot Work begins; ontological framework developed
 - **20+ years** — Active work with commercial real estate professionals, from first-year agents to billion-dollar portfolio producers
-- **5 years** — Teaching in federal prisons
+- **5 years** — Teaching Tai Chi in federal prisons
 - **20+ years** — Fortune 100 corporate consulting
 - **Present** — 12 complete Methods developed; AI-driven Blindspot Discovery Tool operational
 
