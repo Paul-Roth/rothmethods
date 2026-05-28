@@ -58,11 +58,12 @@ Four California land brokers pursued fulfillment projects. The financial results
 
 ## Scale
 
-These outcomes represent 35 years of applied work across:
+These outcomes represent over two decades of applied work across:
 
 - Fortune 100 corporations
 - Commercial real estate — from first-year agents to billion-dollar portfolio producers
-- Federal prisons
+- Agent and Admin Teams
+- Supervisors, Managers and Executives
 - Individual high performers across industries
 ```
 
