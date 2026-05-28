@@ -42,7 +42,7 @@ All proposed changes must be submitted for review by Paul Roth before committing
 
 **Paul Roth**
 RothMethods
-[contact information]
+[paul@rothmethods.com]
 ```
 
 ---
