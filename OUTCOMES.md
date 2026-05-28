@@ -56,12 +56,6 @@ Four California land brokers pursued fulfillment projects. The financial results
 
 ---
 
-## Federal Prison Program
-
-Five years teaching the Method in federal prisons. The same Technology that produces performance results in Fortune 100 environments produces transformation in correctional environments. The Blindspot does not discriminate by context.
-
----
-
 ## Scale
 
 These outcomes represent 35 years of applied work across:
