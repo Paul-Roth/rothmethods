@@ -27,7 +27,7 @@ The 12 Methods — each with its own Tool and Training — represent over two de
 
 ## Intellectual Lineage
 
-Paul's work sits at the intersection of two traditions — synthesized into something that exists nowhere else.
+Paul's work sits at the intersection of three traditions — synthesized into something that exists nowhere else.
 
 **The tradition of Human Nature:**
 Gurdjieff / Fulton J. Sheen / Werner Erhard
