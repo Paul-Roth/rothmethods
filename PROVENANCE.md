@@ -10,7 +10,7 @@ RothMethods was founded in 1989 by Paul Roth.
 
 The Blindspot Work began in the 1990s and is now in its third decade of active development.
 
-The 12 Methods — each with its own Tool and Training — represent 35 years of applied work across Fortune 100 corporations, commercial real estate, federal prisons, and individual high performers.
+The 12 Methods — each with its own Tool and Training — represent over two decades of applied work across Fortune 100 corporations, commercial real estate, federal prisons, and individual high performers.
 
 ---
 
@@ -20,7 +20,7 @@ The 12 Methods — each with its own Tool and Training — represent 35 years of
 - **1990s** — Blindspot Work begins; ontological framework developed
 - **20+ years** — Active work with commercial real estate professionals, from first-year agents to billion-dollar portfolio producers
 - **5 years** — Teaching in federal prisons
-- **35 years** — Fortune 100 corporate consulting
+- **20+ years** — Fortune 100 corporate consulting
 - **Present** — 12 complete Methods developed; AI-driven Blindspot Discovery Tool operational
 
 ---
@@ -68,7 +68,7 @@ Each was walked away from because it was not what he was given to do. The 12 Met
 
 *"If everyone saved themselves, the world would be saved."*
 
-35 years of development. 12 complete Methods. One mission: bring out the better person already within every human being — and through them, build a better world.
+Over two decades of development. 12 complete Methods. One mission: bring out the better person already within every human being — and through them, build a better world.
 ```
 
 ---
